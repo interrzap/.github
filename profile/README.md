@@ -1,15 +1,7 @@
-## Welcome to RGOS 👋
-**ℹ️ RGOS is an open-sourced, web based OS Family concept built with just Vanilla HTML-CSS-JS. RGOS follows a very modern, sleek, and orange themed GUI.**
+<img width="4000" height="1142" alt="Gold Premium Luxury Diamond Logo" src="https://github.com/user-attachments/assets/22f1af96-cd3b-4782-aa46-cbd9b302e079" />
 
-**👩‍💻 We provide 3 OSs with it's own flavours and an open-sourced CSS library**
-  | Name | Descriptions          |
-  | ------- | ------------------ |
-  | [The Ripen OS](https://ripenos.github.io/Ripenos) | **Head of the Family** • Where triplets come in handy! |
-  | [The Windows Ripen](https://ripenos.github.io/WinRipen) | **1st member of the family** • A new taste of Windows OS |
-  | Ripen OS Dynamica | A dynamic Scenery • **Coming soon** |
-  | [Ripen.css](https://ripenos.github.io/ripen.css) | **RGOS CSS library** • To get the taste of RGOS in your webapp! |
+# VERRION Official GitHub
 
-**🥭 Motto - Feel new like something Ripen!!**
+www.verrion.org
 
-**⚖️ License -**
-MIT License | Licensed as *Copyright (c) 2022 RipenOS*
+copyright (c) 2026 VERRION Corp.
